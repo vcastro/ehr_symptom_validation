@@ -1,0 +1,70 @@
+﻿symptom_category,search_term,is_active,contains_exclusion
+headache,Headache,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+headache,Migraine,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|excederin:<2
+headache,Headaches,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+headache,Migraines,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+anosmia_hyposmia,"""Loss Smell""",0,
+anosmia_hyposmia,smell,1,"no|i.e.|denies|denied|deny|denying|""discussed risk""<:10|new<:2|none>:3|fever<:1|myalgias<:1|include<:15|confusion<:1|cause<:3"
+anosmia_hyposmia,"""Cant Smell""",0,
+anosmia_hyposmia,"""Lack of Smell""",0,
+anosmia_hyposmia,"""Change of smell""",0,"none|no|not|negative|without|i.e.|denies|denied|deny|denying|""discussed risk""<:10|new<:2|none>:3|fever<:1|myalgias<:1|include<:15|confusion<:1|cause<:3"
+anosmia_hyposmia,"""Loss olfaction""",1,"none|no|not|negative|without|i.e.|denies|denied|deny|denying|""discussed risk""<:10|new<:2|none>:3|fever<:1|myalgias<:1|include<:15|confusion<:1|cause<:3"
+anosmia_hyposmia,"""Change olfaction""",1,"none|no|not|negative|without|i.e.|denies|denied|deny|denying|""discussed risk""<:10|new<:2|none>:3|fever<:1|myalgias<:1|include<:15|confusion<:1|cause<:3"
+anosmia_hyposmia,Anosmia,1,"none|no|not|negative|without|i.e.|denies|denied|deny|denying|""discussed risk""<:10|new<:2|none>:3|fever<:1|myalgias<:1|include<:15|confusion<:1|cause<:3"
+anosmia_hyposmia,Dysosmia,1,"none|no|not|negative|without|i.e.|denies|denied|deny|denying|""discussed risk""<:10|new<:2|none>:3|fever<:1|myalgias<:1|include<:15|confusion<:1|cause<:3"
+anosmia_hyposmia,Hyposmia,1,"none|no|not|negative|without|i.e.|denies|denied|deny|denying|""discussed risk""<:10|new<:2|none>:3|fever<:1|myalgias<:1|include<:15|confusion<:1|cause<:3"
+fatigue,"""Poor Energy""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+fatigue,"""Loss of energy""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+fatigue,Tired,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+fatigue,Fatigue,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2|caregiver<:1
+fatigue,Malaise,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+fatigue,Tiredness,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+fatigue,Napping,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+fatigue,Exhaustion,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+fatigue,Exhausted,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+fatigue,"""Decreased activity""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+fatigue,"""Decrease activity""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+fatigue,"""Slowed down""",0,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+fatigue,"""Reduced activity""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying|immediately>:2|normal~:5|unusual<:2
+dyspnea,dyspnea,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dyspnea,"""shortness of breath""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dyspnea,"""trouble breathing""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dyspnea,Breathlessness,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dyspnea,"""Breathing difficulty""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dyspnea,"""respiratory insufficiency""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dyspnea,"""unable to breath""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dyspnea,"""unable breath""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dyspnea,SOB,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dyspnea,"""abnormal breathing""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dyspnea,breathless,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+cough,cough,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+cough,coughing,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+congestion,"""nasal congestion""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+congestion,"""nose congested""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+nausea_vomiting,nausea,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+nausea_vomiting,vomit,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+nausea_vomiting,vomited,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+nausea_vomiting,vomiting,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+nausea_vomiting,nauseous,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+diarrhea,diarrhea,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+diarrhea,"""loose stools""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+myalgia_arthralgia,myalgia,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+myalgia_arthralgia,arthralgia,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+myalgia_arthralgia,"""joint pain""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+myalgia_arthralgia,myositis,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+myalgia_arthralgia,aches,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+myalgia_arthralgia,"""muscle pain""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+rhinorrhea,rhinorrhea,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+rhinorrhea,"""runny nose""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+fever,fever,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+chills,chills,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+sore_throat,"""sore throat""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+sore_throat,"""pain in throat""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+altered_mental_status,"""altered mental status""",1,no|none|not
+altered_mental_status,ams,1,no|none|not
+anorexia,anorexia,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+anorexia,anorexic,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dysgeusia,dysgeusia,1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dysgeusia,"""loss of taste""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dysgeusia,"""Change taste""",1,none|no|not|negative|without|i.e.|denies|denied|deny|denying
+dysgeusia,taste,0,"none|no|not|negative|without|i.e.|denies|denied|deny|denying|metalic|""discussed risk""<:10|new<:2|none>:3|fever<:1|myalgias<:1|include<:15|confusion<:1|cause<:3"
